@@ -1,0 +1,8 @@
+#ignore all files that do not contain the source code and relevant resources like images, gifs etc.
+/bin/
+/obj/
+/.vs/
+*.suo
+*.user
+SDL2 Development.sln
+/SDL2 Development/x64/
