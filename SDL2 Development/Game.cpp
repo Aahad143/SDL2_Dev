@@ -4,8 +4,6 @@
 #include <stdio.h>
 #include <string>
 
-deez nuts
-
 const int SCREEN_WIDTH = 1366;
 const int SCREEN_HEIGHT = 768;
 float scale = (float)1 / 6;
